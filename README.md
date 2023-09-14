@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Kod, düşüncelerimizin dijital yansımasıdır; her satır bir hikaye anlatır</h3>
 
 - 🔭  [SocialUni](https://socialuniduzce.com/)
 
