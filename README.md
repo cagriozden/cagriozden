@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!--
-**cagriozden/cagriozden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭  [SocialUni](https://socialuniduzce.com/)
 
-Here are some ideas to get you started:
+- 👯  [OniksTech](https://onikstech.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝  [OdevinMerkezi](https://www.odevinmerkezi.online/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cagriozden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cagriozden" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/oniks tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oniks tech" height="30" width="40" /></a>
+</p>
