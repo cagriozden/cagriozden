@@ -2,7 +2,7 @@
 
 - 🔭  [SocialUni](https://socialuniduzce.com/)
 
-- 👯  [OniksTech](https://onikstech.com/)
+- 👯  [OniksTech](https://www.youtube.com/@OniksTech)
 
 - 🤝  [OdevinMerkezi](https://www.odevinmerkezi.online/)
 
