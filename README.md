@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Çağrı Özden</h1>
 <h3 align="center">A Software Engineer from Turkey</h3>
-<img align="right" alt="Coding" with="300" src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15.gif">
+<img align="right" alt="Coding" with="400" src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15.gif">
 
 
 -  [SocialUni](https://socialuniduzce.com/)
